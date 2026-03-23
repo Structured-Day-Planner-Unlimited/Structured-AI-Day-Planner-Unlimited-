@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/wtgquJVm">
+  <a href="https://cutt.ly/ItOdL9lP">
     <img src="https://img.shields.io/badge/Open_Structured_Pro_Guide-7C3AED?style=for-the-badge&logo=structured&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(124,58,237,0.6);">
